@@ -9,4 +9,5 @@
   * University of Missouri- Columbia
     * Major: Information Technology
 
-[link](/midtermproject1000/test.md)
+[link](https://github.com/sergiopicoo/midtermproject1000/blob/main/test.md)
+
