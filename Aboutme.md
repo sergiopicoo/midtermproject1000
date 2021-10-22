@@ -1,7 +1,7 @@
 
 # **About Me**
 * Name: Sergio Pico  
-* Hometown: San Juan, [Puerto Rico](pr.md)
+* Hometown: San Juan, [Puerto Rico](pr.jpeg)
 
 ## **Education:**
   * Rock Bridge High School (Columbia, Missouri)
