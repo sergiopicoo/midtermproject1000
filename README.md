@@ -9,4 +9,4 @@
   * University of Missouri- Columbia
     * Major: Information Technology
 
-[link](/midtermproject1000/test page)
+[link](/midtermproject1000/Test page)
