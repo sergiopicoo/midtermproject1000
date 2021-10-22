@@ -9,6 +9,6 @@
   * University of Missouri- Columbia
     * Major: Information Technology
 
-[link](/sergiopicoo/midtermproject1000/blob/main/turtleimage.py)
+[link](/midtermproject1000/blob/main/turtleimage.py)
 
 [code](/codetest/circular_cone_volume.py)
